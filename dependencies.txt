@@ -1,0 +1,17 @@
+Github Navigator :
+=================
+
+A simple WSGI application called GitHub navigator. It is able to search GitHub repositories by given search term and present them as an html page, sorted by creation date.
+
+Requierements :
+===============
+
+	1.Python 2.7
+
+	2.pip
+
+	3.requests (python library --pip install requests)
+
+	4.json (python libarry --pip install json)
+
+	5.Flask webframework ( --pip install Flask)
